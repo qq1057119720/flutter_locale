@@ -1,5 +1,9 @@
 package com.flutter.locale.flutter_locale;
+import android.app.Activity;
 
+import androidx.annotation.NonNull;
+
+import java.util.Locale;
 import androidx.annotation.NonNull;
 import io.flutter.embedding.engine.plugins.activity.ActivityAware;
 import io.flutter.embedding.engine.plugins.FlutterPlugin;
